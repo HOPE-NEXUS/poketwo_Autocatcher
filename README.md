@@ -1,3 +1,29 @@
-# poketwo_Autocatcher
+poketwo_Autocatcher
 
-This project have been moved to :- https://github.com/Team-BANERUS/poketwo-Autocatcher
+Note: This project has been moved to a new repository: Team-BANERUS/poketwo-Autocatcher
+
+## Introduction
+
+poketwo_Autocatcher is a bot project that was created around 2021. Its purpose was to address the issue of individuals selling hint autocatchers for the popular Pokémon Discord bot, Poketwo. The motivation behind this project was a desire to provide a free and accessible autocatcher solution to the community.
+
+However, please be aware that as of now, this codebase is considered deprecated and is no longer actively maintained or supported.
+
+
+## Features
+
+While this codebase is no longer actively maintained, here are some of the features it offered during its active development:
+
+    Support for multiple alternate accounts (alts).
+    Autocatching functionality for Poketwo.
+
+## Alternatives
+
+If you are looking for a free autocatcher, we recommend checking out the program known as Fuzzy-catcher or Fuzzy-bot. These projects are authorized and undetectable autocatchers developed by Team_Banerus.
+
+For premium autocatcher and more advanced features, you can explore the offerings provided by Team_Banerus. They have a range of excellent programs to choose from.
+
+## Disclaimer
+
+It's essential to emphasize that this codebase is now deprecated and should be used for educational purposes only. The developer does not take responsibility for any issues or consequences that may arise from its use. We strongly recommend using authorized and undetectable solutions like Fuzzy-bot or Fuzzy-catcher for autocatching in Poketwo to ensure a safe and enjoyable experience for all users.
+
+For the latest and actively maintained version of the Poketwo autocatcher, please visit Team-BANERUS/poketwo-Autocatcher.
