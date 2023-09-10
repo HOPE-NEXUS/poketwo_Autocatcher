@@ -1,5 +1,5 @@
 ## poketwo_Autocatcher
-This bot project was created around 2021. Its purpose was to address the issue of individuals selling loq-quality hint autocatchers for Poketwo.
+This bot project was created around 2021. Its purpose was to address the issue of individuals selling low-quality hint autocatchers for Poketwo.
 
 ## Features
 While this codebase is no longer actively maintained, here are some of the features it offered during its active development:
